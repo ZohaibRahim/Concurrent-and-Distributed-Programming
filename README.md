@@ -1,6 +1,6 @@
-**Concurrent and Distributed Programming**
+#Concurrent and Distributed Programming
 
-*Contents*
+*Content*
 1) Concurrent/Parallel Merge Sort
 2) Custom Lock Implementation
 3) Thread Management
